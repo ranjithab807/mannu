@@ -46,11 +46,11 @@ document.getElementById("Wname")style.visibility="visible";
 <td><input type="text" name="wifetname" style="padding:10px 10px"></td>
 </td>
 </tr>
-<td class="txt"><b>MobileNo</b></td>
+<td class="txt"><b>phno</b></td>
 <input type="text" name="MobileNo" style="padding:10px 10px"></td> 
 </td>
 </tr>
-<td class="txt"><b>EmailID</b></td>
+<td class="txt"><b>email</b></td>
 <td><input type="text" name="emailid" style="padding:10px 10px"></td>
 </td>
 </tr>
